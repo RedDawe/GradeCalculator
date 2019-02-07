@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulačka známek</string>
+    <string name="give_me_my_average">"Spočítej průměr"</string>
+    <string name="default_console">Napište například \"1 4 3.5 2\" nebo \"A B F C\" pro výpočet GPA. (bez uvozovek) Nebo se podívej do nápovědy (otazník v pravo nahoře).</string>
+    <string name="grades_go_here">Známky patří sem: (Oddělujte mezerou)</string>
+    <string name="weights_go_here">Váhy sem: (Nepovinné)</string>
+    <string name="hint">Prosím, napište mezeru mezi každou známku. Podporovaná jsou čísla, písmena (velká i malá), desetinná tečka i čárka a znaménka -, + a /.</string>
+    <string name="how_many">(Nepovinné) Kolik</string>
+    <string name="with_the_weight">o váze</string>
+    <string name="can_i_get_to_pass_with">mohu dostat, aby mi vycházela</string>
+    <string name="error_console">Vypadá to, že jeden z nás něco pokazil. Zkuste například \"1 4 3.5 2\" nebo \"A B F C\" pro výpočet GPA. (bez uvozovek) Nebo se podívej do nápovědy (otazník v pravo nahoře).</string>
+    <string name="one">Tvůj průměr je: </string>
+    <string name="two">\nMůžeš dostat </string>
+    <string name="three"> krát </string>
+    <string name="four"> s výsledným průměrem </string>
+    <string name="five"> aby si prošel s </string>
+    <string name="six">\nNic dalšího pro tebe nemám. Nejspíš si zadal něco nelogického. Zkus se podívat do nápovědy (otazník v pravo nahoře)</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="specialf">KolikX funkce</string>
+    <string name="chbTxt">Postarej se za mě o znaménko mínus před čísly</string>
+    <string name="plusTxt">Plus přidává hodnotu:</string>
+    <string name="minusTxt">Mínus přidává hodnotu:</string>
+    <string name="apply">Aplikovat</string>
+    <string name="tOff">nastavuji automaticky (klikni sem, pro změnu)</string>
+    <string name="tOn">používám tvoje nastavení</string>
+    <string name="HN">Vyšší číslo je lepší známka</string>
+    <string name="LN">Nižší číslo je lepší známka</string>
+    <string name="doc">Na auto, pokud zadáte písmena, počítáme, že vyšší čislo je lepší známka. Pokud ne, tak pravý opak.</string>
+    <string name="doc0">\"0.\" před desetinným číslem je nutná.</string>
+</resources>

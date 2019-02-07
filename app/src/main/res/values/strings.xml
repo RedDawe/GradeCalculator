@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="give_me_my_average">Give me my average</string>
+    <string name="default_console">Put in somethign like \"1 4 3.5 2\" to get the average or \"A B F C\" to get your GPA. (no quotation marks) Or check our HEEELP. (question mark in the upper right corner)</string>
+    <string name="grades_go_here">Grades go here: (Divide with a space)</string>
+    <string name="weights_go_here">Weights go here: (Optional)</string>
+    <string name="hint">Please divide each grade with a space. You can input numbers or letters. Both upper and lowercase are supported. Decimal numbers are supported. The -, + and / are supported.</string>
+    <string name="how_many">(Optional) How many</string>
+    <string name="with_the_weight">with the weight</string>
+    <string name="can_i_get_to_pass_with">can i get, to pass with</string>
+    <string name="error_console">Sorry, looks like one of us has messed up. Try to put in somethign like \"1 4 3.5 2\" to get the average or \"A B F C\" to get your GPA. (no quotation marks) Or check our HEEELP. (question mark in the upper right corner)</string>
+    <string name="one">Your average is: </string>
+    <string name="two">\nYou can get </string>
+    <string name="three"> times </string>
+    <string name="four"> with the average of </string>
+    <string name="five"> to still pass with </string>
+    <string name="six">\nThe rest is simply not gonna happen. You probably inputed something illogical. Try checking our HEEELP. (question mark in the upper right corner)</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="specialf">The How Many Function</string>
+    <string name="chbTxt">Take care for me about it being negative or positive</string>
+    <string name="plusTxt">The plus character stands for:</string>
+    <string name="minusTxt">The minus character stands for:</string>
+    <string name="apply">Apply</string>
+    <string name="tOff">using automatic (click here to change)</string>
+    <string name="tOn">using the setting bellow</string>
+    <string name="HN">Higher number is a better grade</string>
+    <string name="LN">Lower number is a better grade</string>
+    <string name="doc">On auto, if letters are entered, we count, that a higher number is a better grade. Otherwise the opposite.</string>
+    <string name="doc0">The \"0.\" before the decimal expression is required.</string>
+</resources>
